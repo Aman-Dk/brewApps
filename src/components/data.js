@@ -29,21 +29,21 @@ let data = [
       name: "6529 AB + 1",
       img: fourth,
       link: "@6529",
-      address: "0xfd2200"
+      address: "0xfd2200..."
     },
     {
       name: "#9049",
       img: fifth,
       link: "@rskagy",
-      address: "0x83fcf5"
+      address: "0x83fcf5..."
     },
     {
       name: "6529 Photo A",
       img: sixth,
       link: "@6529",
       link2: "@mintface",
-      address: "0xfd2200",
-      address2: "0xdd6b80"
+      address: "0xfd2200...",
+      address2: "0xdd6b80..."
     }
   ];
   
